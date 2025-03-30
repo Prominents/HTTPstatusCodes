@@ -24,11 +24,11 @@ A modern, minimalist web application that provides a complete reference of all H
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/http-status-codes.git
+   git clone https://github.com/Prominents/HTTPstatusCodes.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd http-status-codes
+   cd HTTPstatusCodes
    ```
 3. Open `index.html` in your browser
 
